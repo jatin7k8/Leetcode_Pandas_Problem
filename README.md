@@ -18,6 +18,9 @@
 | 3 | [1596. The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/description/). | Medium | Advanced Topics: Window Function and CTE| [Link](https://github.com/jatin7k8/Leetcode_Pandas_Problem/blob/main/Leetcode_Pandas_solution/3.1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.py)|
 | 4 | [1285. Find the Start and End Number of Continuous Ranges]( https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/description/). | Medium | Advanced Topics: Window Function and CTE| [Link](https://github.com/jatin7k8/Leetcode_Pandas_Problem/blob/main/Leetcode_Pandas_solution/4.1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.py)|
 | 5 | [1077. Project Employees III](https://leetcode.com/problems/project-employees-iii/). | Medium | Advanced Topics: Window Function and CTE| [Link](https://github.com/jatin7k8/Leetcode_Pandas_Problem/blob/main/Leetcode_Pandas_solution/5.1077.%20Project%20Employees%20III.py)|
+| 6 | [1112. Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/). | Medium | Select| [Link](https://github.com/jatin7k8/Leetcode_Pandas_Problem/blob/main/Leetcode_Pandas_solution/6.1112.%20Highest%20Grade%20For%20Each%20Student.py)|
+| 7 | [1398. Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/highest-grade-for-each-student/). | Medium | Select| [Link](https://github.com/jatin7k8/Leetcode_Pandas_Problem/blob/main/Leetcode_Pandas_solution/7.1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.py)|
+
 
 
 
